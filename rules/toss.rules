@@ -2,6 +2,7 @@
 DOMAIN-SUFFIX,toss.im
 DOMAIN-SUFFIX,tossbank.com
 DOMAIN-SUFFIX,tosspayments.com
-# 以下两条我没查到来源，请抓包确认后再保留
+# 以下三条我没查到来源，请抓包确认后再保留
 DOMAIN-SUFFIX,tossinvest.com
 DOMAIN-SUFFIX,toss.me
+DOMAIN-SUFFIX,toss.im
